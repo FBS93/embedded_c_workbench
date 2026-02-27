@@ -140,7 +140,7 @@ def run(cmd, quiet=True):
 # @brief Flash firmware to the target via GDB server.
 #
 # Copies the test binary to the Raspberry Pi and programs it
-# using GDB monitor commands.
+# using GDB commands.
 #
 # @param[in] test_binary Path to the firmware ELF file.
 ##
