@@ -6,4 +6,4 @@ project(embedded_c_framework C ASM)
 include(tools/cmake/functions/ect_add_executable.cmake)
 
 # Add src subdirectory
-add_subdirectory(src)
+# add_subdirectory(src)
